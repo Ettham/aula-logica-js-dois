@@ -1,0 +1,9 @@
+header{
+    background: #f00;
+    h1{
+        color: aliceblue;
+        &:hover{
+            color: aliceblue;
+        }
+    }
+}
